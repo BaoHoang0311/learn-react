@@ -12,7 +12,7 @@ function MyButton({user}) {
 }
 function MyApp() {
   const user = {
-    name: "Hedy Lamarr",
+    name: "Hedy Lamarrs",
     imageUrl: "https://i.imgur.com/yXOvdOSs.jpg",
     imageSize: 90,
   };
